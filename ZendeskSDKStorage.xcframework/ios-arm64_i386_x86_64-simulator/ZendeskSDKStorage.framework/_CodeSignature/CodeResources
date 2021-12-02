@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ZendeskSDKStorage-Swift.h</key>
 		<data>
-		MMvKS8RVRvCC35THj8KGlirM/Ig=
+		Q0GqDXfANm6eKacerFVPRpCuRWA=
 		</data>
 		<key>Headers/ZendeskSDKStorage.h</key>
 		<data>
@@ -14,79 +14,79 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xgjjsmgLBcVYUWHrxG92ygWMTdc=
+		72KkfK2o1b2FvFH9dZ4hgFChKDI=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		MpO68XWEQyKcyDhejjC/oRKASbw=
+		jeCnbW5SDd5GyJVR7T5FXYgljEY=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		nmVIsHmN/0ZZaQAnJW5Vi33tBuU=
+		uYEPJI8hy8jMPO9K7fVpDomufWs=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iO+hFeMttAGFqBeJM6+TSj28tmE=
+		qDmoiIjyFPzHKiYLxS2InEWfeyo=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		MpO68XWEQyKcyDhejjC/oRKASbw=
+		jeCnbW5SDd5GyJVR7T5FXYgljEY=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		nmVIsHmN/0ZZaQAnJW5Vi33tBuU=
+		uYEPJI8hy8jMPO9K7fVpDomufWs=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		iO+hFeMttAGFqBeJM6+TSj28tmE=
+		qDmoiIjyFPzHKiYLxS2InEWfeyo=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		50tFPMcrIE4JyB+fiIYtjJ8uVNA=
+		/WA3vzBsHGZUDFVqUxFbweCsWz0=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FcIezllfSZSNAwLgUJ3aopSL1X8=
+		AxI76dHpOqI+bjxh8TESWRM3+9E=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ld6nrhxQrpfncQH3RyPPRrITZWU=
+		E0Ffjqv0SpQV7jD5c1mhd2LgARU=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386.swiftdoc</key>
 		<data>
-		50tFPMcrIE4JyB+fiIYtjJ8uVNA=
+		/WA3vzBsHGZUDFVqUxFbweCsWz0=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386.swiftinterface</key>
 		<data>
-		FcIezllfSZSNAwLgUJ3aopSL1X8=
+		AxI76dHpOqI+bjxh8TESWRM3+9E=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386.swiftmodule</key>
 		<data>
-		Ld6nrhxQrpfncQH3RyPPRrITZWU=
+		E0Ffjqv0SpQV7jD5c1mhd2LgARU=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cfc+llpWAF6BqqOP1RiOBKvEMzw=
+		g5sPxkgCEBrheEwGCeHyt9gTgBo=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		EireKJAAdueVkz651BBEbqEO+e0=
+		e7uswtCYmnXCX5w0nt8YJe9Yjpk=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Cc/411ZxlNR1tgJTR+lq3v9/0o0=
+		NavXv0kzNLoeTXbAvodxFAOIxLI=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		cfc+llpWAF6BqqOP1RiOBKvEMzw=
+		g5sPxkgCEBrheEwGCeHyt9gTgBo=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		EireKJAAdueVkz651BBEbqEO+e0=
+		e7uswtCYmnXCX5w0nt8YJe9Yjpk=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Cc/411ZxlNR1tgJTR+lq3v9/0o0=
+		NavXv0kzNLoeTXbAvodxFAOIxLI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MMvKS8RVRvCC35THj8KGlirM/Ig=
+			Q0GqDXfANm6eKacerFVPRpCuRWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			j/XOr03Mu4KIWyiUd5mRDeRP9yr+aNnHiFj/Z6+ZvLk=
+			H+prcDETbcglFeRMWpYGSY3NBGlgn/oceWJYE0HbJfA=
 			</data>
 		</dict>
 		<key>Headers/ZendeskSDKStorage.h</key>
@@ -121,198 +121,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MpO68XWEQyKcyDhejjC/oRKASbw=
+			jeCnbW5SDd5GyJVR7T5FXYgljEY=
 			</data>
 			<key>hash2</key>
 			<data>
-			+V/oUefl/IZUR5IEgPP2GIsVr720wWZGknBpIZ5Mbvs=
+			miAHbptpHFKAvsm1pxK7tvnpHXymfRWymfHKdWmHres=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nmVIsHmN/0ZZaQAnJW5Vi33tBuU=
+			uYEPJI8hy8jMPO9K7fVpDomufWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			yAPhlEYRYGhjVFdUf/di+A72+wiz6Vkg/Hl/gO/fIwk=
+			cJfHbdvQr8WmkjmGn1GzaFM6T05qBe5j2b6SXbyL7/o=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iO+hFeMttAGFqBeJM6+TSj28tmE=
+			qDmoiIjyFPzHKiYLxS2InEWfeyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			HQkVjhe7H3nsibgolWcdZsuZsUMyof7gbWAaZOaNNQ8=
+			EQPiTT9d8cIVICigiH8LLoDhD+E6W5kjaqAYfv5Pfmk=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MpO68XWEQyKcyDhejjC/oRKASbw=
+			jeCnbW5SDd5GyJVR7T5FXYgljEY=
 			</data>
 			<key>hash2</key>
 			<data>
-			+V/oUefl/IZUR5IEgPP2GIsVr720wWZGknBpIZ5Mbvs=
+			miAHbptpHFKAvsm1pxK7tvnpHXymfRWymfHKdWmHres=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nmVIsHmN/0ZZaQAnJW5Vi33tBuU=
+			uYEPJI8hy8jMPO9K7fVpDomufWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			yAPhlEYRYGhjVFdUf/di+A72+wiz6Vkg/Hl/gO/fIwk=
+			cJfHbdvQr8WmkjmGn1GzaFM6T05qBe5j2b6SXbyL7/o=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iO+hFeMttAGFqBeJM6+TSj28tmE=
+			qDmoiIjyFPzHKiYLxS2InEWfeyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			HQkVjhe7H3nsibgolWcdZsuZsUMyof7gbWAaZOaNNQ8=
+			EQPiTT9d8cIVICigiH8LLoDhD+E6W5kjaqAYfv5Pfmk=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			50tFPMcrIE4JyB+fiIYtjJ8uVNA=
+			/WA3vzBsHGZUDFVqUxFbweCsWz0=
 			</data>
 			<key>hash2</key>
 			<data>
-			2FI2/J5F5q01fRkwGq6qi6wTFvZG8FyhxhBnpNgSULM=
+			HxVHJbprEKSW2MfxboNmEuNSDvxYWaId/o/C91aRWcc=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FcIezllfSZSNAwLgUJ3aopSL1X8=
+			AxI76dHpOqI+bjxh8TESWRM3+9E=
 			</data>
 			<key>hash2</key>
 			<data>
-			JTHu5jq/DjD83oetfAuYPwWEeOCQnId34ymZokWXHDE=
+			5p22UEWPsSa5I9n2EIXVixOH+D+8N1m4G4v3T2wd1uA=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ld6nrhxQrpfncQH3RyPPRrITZWU=
+			E0Ffjqv0SpQV7jD5c1mhd2LgARU=
 			</data>
 			<key>hash2</key>
 			<data>
-			yTMJcBLppvI84duA6G7mbS4kUg5doHx2FRRq6GJ1p7s=
+			VWzAA04D7SgjrRNE+23itCyAfbX1i8Gg0WVbxhn0oZI=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			50tFPMcrIE4JyB+fiIYtjJ8uVNA=
+			/WA3vzBsHGZUDFVqUxFbweCsWz0=
 			</data>
 			<key>hash2</key>
 			<data>
-			2FI2/J5F5q01fRkwGq6qi6wTFvZG8FyhxhBnpNgSULM=
+			HxVHJbprEKSW2MfxboNmEuNSDvxYWaId/o/C91aRWcc=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FcIezllfSZSNAwLgUJ3aopSL1X8=
+			AxI76dHpOqI+bjxh8TESWRM3+9E=
 			</data>
 			<key>hash2</key>
 			<data>
-			JTHu5jq/DjD83oetfAuYPwWEeOCQnId34ymZokWXHDE=
+			5p22UEWPsSa5I9n2EIXVixOH+D+8N1m4G4v3T2wd1uA=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ld6nrhxQrpfncQH3RyPPRrITZWU=
+			E0Ffjqv0SpQV7jD5c1mhd2LgARU=
 			</data>
 			<key>hash2</key>
 			<data>
-			yTMJcBLppvI84duA6G7mbS4kUg5doHx2FRRq6GJ1p7s=
+			VWzAA04D7SgjrRNE+23itCyAfbX1i8Gg0WVbxhn0oZI=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cfc+llpWAF6BqqOP1RiOBKvEMzw=
+			g5sPxkgCEBrheEwGCeHyt9gTgBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			CSOWyBF4oEenducI8rtUXIozgk14fSPApLl6t2EsbCc=
+			p7KlGhpDKMhR5M9XI7RGMFb6ucy00ZUbRJTGXafSPCo=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EireKJAAdueVkz651BBEbqEO+e0=
+			e7uswtCYmnXCX5w0nt8YJe9Yjpk=
 			</data>
 			<key>hash2</key>
 			<data>
-			iGBhO67yM0oO6jmcKKXiyM10yWN62ydoqUMOsJrR/C0=
+			J3gp0QPK00NzvnaOvCJY9SYDszkOJkSblTCjnznSKAM=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Cc/411ZxlNR1tgJTR+lq3v9/0o0=
+			NavXv0kzNLoeTXbAvodxFAOIxLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			XRbFUFlDVDIbqV6QNB6aM8DFsXQNE1qTlSIF8RN3CUk=
+			zN4dooi0cGNEBCbkktb2WqoBd1RPa7RtaB89U96GPyw=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cfc+llpWAF6BqqOP1RiOBKvEMzw=
+			g5sPxkgCEBrheEwGCeHyt9gTgBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			CSOWyBF4oEenducI8rtUXIozgk14fSPApLl6t2EsbCc=
+			p7KlGhpDKMhR5M9XI7RGMFb6ucy00ZUbRJTGXafSPCo=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EireKJAAdueVkz651BBEbqEO+e0=
+			e7uswtCYmnXCX5w0nt8YJe9Yjpk=
 			</data>
 			<key>hash2</key>
 			<data>
-			iGBhO67yM0oO6jmcKKXiyM10yWN62ydoqUMOsJrR/C0=
+			J3gp0QPK00NzvnaOvCJY9SYDszkOJkSblTCjnznSKAM=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Cc/411ZxlNR1tgJTR+lq3v9/0o0=
+			NavXv0kzNLoeTXbAvodxFAOIxLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			XRbFUFlDVDIbqV6QNB6aM8DFsXQNE1qTlSIF8RN3CUk=
+			zN4dooi0cGNEBCbkktb2WqoBd1RPa7RtaB89U96GPyw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
