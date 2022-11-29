@@ -3,7 +3,7 @@ import PackageDescription
 let package = Package(
     name: "ZendeskSDKStorage",
     platforms: [
-        .iOS(.v10)
+        .iOS(.v11)
     ],
     products: [
         .library(
@@ -16,7 +16,7 @@ let package = Package(
     dependencies: [
         .package(name: "ZendeskSDKLogger",
                  url: "https://github.com/zendesk/sdk_logger_ios",
-                 from: "0.4.3")
+                 from: "0.5.0")
     ],
     targets: [
         .binaryTarget(
