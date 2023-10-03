@@ -3,7 +3,7 @@ import PackageDescription
 let package = Package(
     name: "ZendeskSDKStorage",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v12)
     ],
     products: [
         .library(
@@ -14,21 +14,24 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "ZendeskSDKLogger",
-                 url: "https://github.com/zendesk/sdk_logger_ios",
-                 from: "0.8.0")
+        .package(
+            name: "ZendeskSDKLogger",
+            url: "https://github.com/zendesk/sdk_logger_ios",
+            from: "0.9.0"
+        )
     ],
     targets: [
         .binaryTarget(
             name: "ZendeskSDKStorage",
             path: "ZendeskSDKStorage.xcframework"
         ),
-        .target(name: "ZendeskSDKStorageTargets",
-                dependencies: [
-                    .target(name: "ZendeskSDKStorage"),
-                    .product(name: "ZendeskSDKLogger", package: "ZendeskSDKLogger")
-                ],
-                path: "Sources")
+        .target(
+            name: "ZendeskSDKStorageTargets",
+            dependencies: [
+                .target(name: "ZendeskSDKStorage"),
+                .product(name: "ZendeskSDKLogger", package: "ZendeskSDKLogger")
+            ],
+            path: "Sources"
+        )
     ]
 )
-
