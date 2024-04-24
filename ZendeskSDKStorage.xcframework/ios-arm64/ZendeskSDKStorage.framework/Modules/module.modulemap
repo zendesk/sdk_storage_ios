@@ -1,7 +1,7 @@
 framework module ZendeskSDKStorage {
   umbrella header "ZendeskSDKStorage.h"
-
   export *
+
   module * { export * }
 }
 
