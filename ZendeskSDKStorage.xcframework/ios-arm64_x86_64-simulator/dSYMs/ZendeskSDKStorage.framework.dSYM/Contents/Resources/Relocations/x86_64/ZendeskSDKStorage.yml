@@ -75,7 +75,7 @@ relocations:
   - { offsetInCU: 0x951, offset: 0x31849, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSo18NSFileAttributeKeya_ypTg5Tf4gd_n', symObjAddr: 0xE60, symBinAddr: 0x6200, symSize: 0xE0 }
   - { offsetInCU: 0x27, offset: 0x31A93, size: 0x8, addend: 0x0, symName: '_$s17ZendeskSDKStorage13StorageLoggerVMa', symObjAddr: 0x0, symBinAddr: 0x6470, symSize: 0x10 }
   - { offsetInCU: 0x4B, offset: 0x31AB7, size: 0x8, addend: 0x0, symName: '_$s17ZendeskSDKStorage13StorageLoggerV12logNamespaceSSvpZ', symObjAddr: 0x9F8, symBinAddr: 0xD1B0, symSize: 0x0 }
-  - { offsetInCU: 0x65, offset: 0x31AD1, size: 0x8, addend: 0x0, symName: '_$s17ZendeskSDKStorage13StorageLoggerV11logCategorySSvpZ', symObjAddr: 0x3F98, symBinAddr: 0xE4A0, symSize: 0x0 }
+  - { offsetInCU: 0x65, offset: 0x31AD1, size: 0x8, addend: 0x0, symName: '_$s17ZendeskSDKStorage13StorageLoggerV11logCategorySSvpZ', symObjAddr: 0x3F90, symBinAddr: 0xE4A0, symSize: 0x0 }
   - { offsetInCU: 0x73, offset: 0x31ADF, size: 0x8, addend: 0x0, symName: '_$s17ZendeskSDKStorage13StorageLoggerVMa', symObjAddr: 0x0, symBinAddr: 0x6470, symSize: 0x10 }
   - { offsetInCU: 0x87, offset: 0x31AF3, size: 0x8, addend: 0x0, symName: '_$s17ZendeskSDKStorage13StorageLoggerV11logCategory_WZ', symObjAddr: 0x10, symBinAddr: 0x6480, symSize: 0x30 }
   - { offsetInCU: 0xB7, offset: 0x31B23, size: 0x8, addend: 0x0, symName: '_$s17ZendeskSDKStorage13StorageLoggerV0A9SDKLogger8LoggableAadEP12logNamespaceSSvgZTW', symObjAddr: 0x40, symBinAddr: 0x64B0, symSize: 0x30 }
