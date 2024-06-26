@@ -1030,14 +1030,21 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/FileProvider.swift",
       "kind": "BooleanLiteral",
-      "offset": 2266,
+      "offset": 2404,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/FileProvider.swift",
       "kind": "StringLiteral",
-      "offset": 3617,
+      "offset": 3237,
+      "length": 3,
+      "value": "\"_\""
+    },
+    {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/FileProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 4887,
       "length": 9,
       "value": "\"zendesk\""
     },
