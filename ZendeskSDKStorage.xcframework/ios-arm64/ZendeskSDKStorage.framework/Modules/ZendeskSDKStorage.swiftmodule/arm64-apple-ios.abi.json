@@ -1058,133 +1058,133 @@
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 725,
+      "offset": 724,
       "length": 9,
       "value": "\"STORAGE\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 843,
+      "offset": 842,
       "length": 143,
       "value": "\"Storing value of type: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 905,
+      "offset": 904,
       "length": 2,
       "value": "\"\nin \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 960,
+      "offset": 959,
       "length": 4,
       "value": "\" type storage.\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1109,
+      "offset": 1108,
       "length": 151,
       "value": "\"Failed to store value of type: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1179,
+      "offset": 1178,
       "length": 2,
       "value": "\"\nin \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1234,
+      "offset": 1233,
       "length": 4,
       "value": "\" type storage.\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1381,
+      "offset": 1380,
       "length": 148,
       "value": "\"Retrieving value of type: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1446,
+      "offset": 1445,
       "length": 4,
       "value": "\"\nfrom \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1503,
+      "offset": 1502,
       "length": 4,
       "value": "\" type storage.\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1657,
+      "offset": 1656,
       "length": 156,
       "value": "\"Failed to retrieve value of type: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1730,
+      "offset": 1729,
       "length": 4,
       "value": "\"\nfrom \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1787,
+      "offset": 1786,
       "length": 4,
       "value": "\" type storage.\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 1928,
+      "offset": 1927,
       "length": 120,
       "value": "\"Cleared storage of type \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2007,
+      "offset": 2006,
       "length": 4,
       "value": "\" with namespace: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2036,
+      "offset": 2035,
       "length": 108,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2150,
+      "offset": 2149,
       "length": 116,
       "value": "\"Cleared value for key: \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2191,
+      "offset": 2190,
       "length": 4,
       "value": "\" from \""
     },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
-      "offset": 2240,
+      "offset": 2239,
       "length": 4,
       "value": "\" type storage.\""
     }

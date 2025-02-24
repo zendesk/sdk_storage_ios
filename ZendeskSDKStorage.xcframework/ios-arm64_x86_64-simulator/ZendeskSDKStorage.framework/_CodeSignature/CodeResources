@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		f3uP53FR/DMkEFsO7qhv+SqjUpM=
+		R1ergr8IzEQgXklQ0TwGWy1x7Yk=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6SmBj23L+CAO4/eZKelYzaioroY=
+		LeT7HWn+BzbcgA+ZGW/1F/BQYIo=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		By2+JMV2q7qMR8FLVgSlCN2rU5Q=
+		j75aI4bSamEPo7KEra0TfyROuZk=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6SmBj23L+CAO4/eZKelYzaioroY=
+		LeT7HWn+BzbcgA+ZGW/1F/BQYIo=
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oawcvc+4JzEB0/dWD376V9RhRk4=
+		Ol/KIT8PKU4m9GzSDGYKHuLJ42E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VNlCrn4O8j5l3kdRu1fDuerAslfZ5JWFWDjobPkl7Uo=
+			OYt4ZgFijfWMDXNZYHu8wND00m8miDTjOIfT1sZRy8w=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2UmVUdU/0xYnBys6Wi3UpDGKOoELfqluTFt5qTSM2YQ=
+			9GtT3TS6IF1i/YuSJ2eUxvt5Smz0a0G9QM6llGo0tME=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VNlCrn4O8j5l3kdRu1fDuerAslfZ5JWFWDjobPkl7Uo=
+			OYt4ZgFijfWMDXNZYHu8wND00m8miDTjOIfT1sZRy8w=
 			</data>
 		</dict>
 		<key>Modules/ZendeskSDKStorage.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bhryow/QcsPMx5aoJeuSxDvX2xFFM8PUiCe134+mfYg=
+			glxH811HHw59IZpecTYtXw6q8lZI6h+RGQI8o/RfQ0U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
