@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "ZendeskSDKStorage",
+    "printedName": "ZendeskSDKStorage",
     "children": [
       {
         "kind": "Import",
@@ -118,7 +118,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Storage",
-                "printedName": "ZendeskSDKStorage.Storage",
+                "printedName": "any ZendeskSDKStorage.Storage",
                 "usr": "s:17ZendeskSDKStorage7StorageP"
               }
             ],
@@ -141,6 +141,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -325,6 +341,22 @@
           "AccessControl",
           "PropertyWrapper",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -423,6 +455,39 @@
             ]
           },
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ZendeskSDKStorage.StorageType?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "StorageType",
+                    "printedName": "ZendeskSDKStorage.StorageType",
+                    "usr": "s:17ZendeskSDKStorage11StorageTypeO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:17ZendeskSDKStorage11StorageTypeO8rawValueACSgSS_tcfc",
+            "mangledName": "$s17ZendeskSDKStorage11StorageTypeO8rawValueACSgSS_tcfc",
+            "moduleName": "ZendeskSDKStorage",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Var",
             "name": "rawValue",
             "printedName": "rawValue",
@@ -460,39 +525,6 @@
                 "accessorKind": "get"
               }
             ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(rawValue:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "ZendeskSDKStorage.StorageType?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "StorageType",
-                    "printedName": "ZendeskSDKStorage.StorageType",
-                    "usr": "s:17ZendeskSDKStorage11StorageTypeO"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:17ZendeskSDKStorage11StorageTypeO8rawValueACSgSS_tcfc",
-            "mangledName": "$s17ZendeskSDKStorage11StorageTypeO8rawValueACSgSS_tcfc",
-            "moduleName": "ZendeskSDKStorage",
-            "implicit": true,
-            "init_kind": "Designated"
           }
         ],
         "declKind": "Enum",
@@ -505,6 +537,20 @@
         ],
         "enumRawTypeName": "String",
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -694,6 +740,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1007,47 +1067,28 @@
         "moduleName": "ZendeskSDKStorage",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/BasicStorage.swift",
-      "kind": "StringLiteral",
-      "offset": 3841,
-      "length": 5,
-      "value": "\"tmp\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/FileProvider.swift",
-      "kind": "BooleanLiteral",
-      "offset": 908,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/FileProvider.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2404,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/FileProvider.swift",
-      "kind": "StringLiteral",
-      "offset": 3237,
-      "length": 3,
-      "value": "\"_\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/FileProvider.swift",
-      "kind": "StringLiteral",
-      "offset": 4887,
-      "length": 9,
-      "value": "\"zendesk\""
-    },
     {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
@@ -1061,132 +1102,6 @@
       "offset": 724,
       "length": 9,
       "value": "\"STORAGE\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 842,
-      "length": 143,
-      "value": "\"Storing value of type: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 904,
-      "length": 2,
-      "value": "\"\nin \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 959,
-      "length": 4,
-      "value": "\" type storage.\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1108,
-      "length": 151,
-      "value": "\"Failed to store value of type: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1178,
-      "length": 2,
-      "value": "\"\nin \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1233,
-      "length": 4,
-      "value": "\" type storage.\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1380,
-      "length": 148,
-      "value": "\"Retrieving value of type: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1445,
-      "length": 4,
-      "value": "\"\nfrom \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1502,
-      "length": 4,
-      "value": "\" type storage.\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1656,
-      "length": 156,
-      "value": "\"Failed to retrieve value of type: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1729,
-      "length": 4,
-      "value": "\"\nfrom \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1786,
-      "length": 4,
-      "value": "\" type storage.\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 1927,
-      "length": 120,
-      "value": "\"Cleared storage of type \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2006,
-      "length": 4,
-      "value": "\" with namespace: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2035,
-      "length": 108,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2149,
-      "length": 116,
-      "value": "\"Cleared value for key: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2190,
-      "length": 4,
-      "value": "\" from \""
-    },
-    {
-      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 2239,
-      "length": 4,
-      "value": "\" type storage.\""
     }
   ]
 }

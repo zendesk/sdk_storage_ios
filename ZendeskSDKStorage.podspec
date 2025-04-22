@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ZendeskSDKStorage"
-  s.version      = "1.2.0"
+  s.version      = "1.3.0"
   s.summary      = "ZendeskSDKStorage #{s.version.to_s}"
   s.homepage     = "https://developer.zendesk.com/documentation/zendesk-web-widget-sdks/sdks/ios/getting_started/"
   s.license      = {
@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
   s.cocoapods_version = '>= 1.10.0'
   s.source       = { :git => "https://github.com/zendesk/sdk_storage_ios.git", :tag => s.version }
   s.vendored_frameworks = 'ZendeskSDKStorage.xcframework'
-  s.dependency 'ZendeskSDKLogger', '~> 0.10.0'
+  s.dependency 'ZendeskSDKLogger', '~> 0.11.0'
 end
