@@ -1090,6 +1090,13 @@
   },
   "ConstValues": [
     {
+      "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/ComplexStorage.swift",
+      "kind": "StringLiteral",
+      "offset": 1030,
+      "length": 29,
+      "value": "\"com.zendesk.storage.complex\""
+    },
+    {
       "filePath": "\/Users\/admin\/actions-runner\/_work\/native_messaging_sdk_ios\/native_messaging_sdk_ios\/Storage\/Storage\/Source\/StorageLogger.swift",
       "kind": "StringLiteral",
       "offset": 673,
