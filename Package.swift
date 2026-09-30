@@ -1,9 +1,9 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.7
 import PackageDescription
 let package = Package(
     name: "ZendeskSDKStorage",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v16)
     ],
     products: [
         .library(
@@ -17,7 +17,7 @@ let package = Package(
         .package(
             name: "ZendeskSDKLogger",
             url: "https://github.com/zendesk/sdk_logger_ios",
-            from: "0.11.0"
+            from: "0.12.0"
         )
     ],
     targets: [
